@@ -5,7 +5,7 @@
 
 I'm João, Java Full-Stack developer
 
-- 🏦 I’m currently working on a big financial solution company
+- 🏦 I’m currently working on a multinational software solution company
 - 💼 I have experience with Platform development...
 - 💻 I have experience with Micro-services
 - 💬 Ask me about Java, Spring Framework, Angular, and others...
